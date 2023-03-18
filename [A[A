@@ -1,0 +1,36 @@
+[33mcommit a08c45fabc0365b100a12c5f38ecbd58c5f6d2eb[m[33m ([m[1;36mHEAD -> [m[1;32mnew-navbar[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Santiago <aguerosan@gmail.com>
+Date:   Sat Mar 18 16:35:55 2023 -0300
+
+    add readme file
+
+[33mcommit 29c55484981b0d52036d1167becc7e233278eba6[m
+Author: Santiago <aguerosan@gmail.com>
+Date:   Fri Mar 17 21:29:35 2023 -0300
+
+    add cards section
+
+[33mcommit 69b76716776ffdc86def5ac21f3e43ac349bc982[m
+Merge: 386794b b391f9d
+Author: Santiago <aguerosan@gmail.com>
+Date:   Fri Mar 17 21:27:08 2023 -0300
+
+    Merge branch 'main' of https://github.com/santiagoaguero/starbucks-rewards-clone
+
+[33mcommit 386794b9decc2c8b2d954d4e0b59af7691f291c2[m
+Author: Santiago <aguerosan@gmail.com>
+Date:   Fri Mar 17 21:26:29 2023 -0300
+
+    add cards section
+
+[33mcommit b391f9d41d47c5eed2ee246ea4cec500239c4173[m
+Author: Santiago <78831095+santiagoaguero@users.noreply.github.com>
+Date:   Fri Mar 17 16:32:16 2023 -0300
+
+    Create README.md
+
+[33mcommit c1bd494a705e3ffbc209ac47a20ee0f5c3478921[m
+Author: Santiago <aguerosan@gmail.com>
+Date:   Fri Mar 17 16:28:37 2023 -0300
+
+    add header & join section
